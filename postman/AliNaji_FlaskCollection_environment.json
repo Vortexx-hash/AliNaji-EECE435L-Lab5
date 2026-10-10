@@ -1,0 +1,22 @@
+{
+	"id": "a75d2c72-0c95-4567-b817-1f7c6e11a25e",
+	"name": "Lab5 Local",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "http://127.0.0.1:5000",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "user_id",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-10-10T16:50:13.924Z",
+	"_postman_exported_using": "Postman/12.31.6"
+}
